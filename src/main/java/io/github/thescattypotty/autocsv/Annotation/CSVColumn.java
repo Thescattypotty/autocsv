@@ -29,7 +29,7 @@ import java.lang.annotation.Target;
  *         &#64;CSVColumn(name = "Birth Date", dateFormat = "dd/MM/yyyy")
  *         private LocalDate birthDate;
  * 
- *         @CSVColumn(ignore = true)
+ *         &#64;CSVColumn(ignore = true)
  *         private String internalId;
  *     }
  * }
