@@ -1,4 +1,4 @@
-package org.autocsv.Annotation;
+package io.github.thescattypotty.autocsv.Annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

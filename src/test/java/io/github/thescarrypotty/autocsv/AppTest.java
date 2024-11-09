@@ -1,10 +1,10 @@
-package org.autocsv;
+package io.github.thescarrypotty.autocsv;
 
 import junit.framework.TestCase;
-import org.autocsv.Entity.Person;
-import org.autocsv.Service.CSVConverter;
-import org.autocsv.Service.CSVOptions;
-import org.autocsv.Exception.CSVConversionException;
+import io.github.thescarrypotty.autocsv.Entity.Person;
+import io.github.thescattypotty.autocsv.Exception.CSVConversionException;
+import io.github.thescattypotty.autocsv.Service.CSVConverter;
+import io.github.thescattypotty.autocsv.Service.CSVOptions;
 
 import java.io.File;
 import java.io.IOException;

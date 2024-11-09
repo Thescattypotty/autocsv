@@ -1,4 +1,4 @@
-package org.autocsv.Service;
+package io.github.thescattypotty.autocsv.Service;
 
 import com.opencsv.CSVWriter;
 

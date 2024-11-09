@@ -1,4 +1,4 @@
-package org.autocsv;
+package io.github.thescattypotty.autocsv;
 
 
 public class App {

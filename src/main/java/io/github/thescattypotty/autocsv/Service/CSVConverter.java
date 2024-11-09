@@ -1,4 +1,4 @@
-package org.autocsv.Service;
+package io.github.thescattypotty.autocsv.Service;
 
 import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;
@@ -6,8 +6,8 @@ import com.opencsv.CSVReaderBuilder;
 import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvValidationException;
 
-import org.autocsv.Annotation.CSVColumn;
-import org.autocsv.Exception.CSVConversionException;
+import io.github.thescattypotty.autocsv.Annotation.CSVColumn;
+import io.github.thescattypotty.autocsv.Exception.CSVConversionException;
 
 import java.io.*;
 import java.lang.reflect.Constructor;

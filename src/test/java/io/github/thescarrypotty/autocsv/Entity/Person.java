@@ -1,9 +1,8 @@
-package org.autocsv.Entity;
+package io.github.thescarrypotty.autocsv.Entity;
 
 import java.util.Date;
 
-import org.autocsv.Annotation.CSVColumn;
-
+import io.github.thescattypotty.autocsv.Annotation.CSVColumn;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
